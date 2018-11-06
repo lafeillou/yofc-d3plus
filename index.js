@@ -1,0 +1,1 @@
+module.exports = require('./d3plus/1.8.0/d3plus.min.js');
